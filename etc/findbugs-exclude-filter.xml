@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<FindBugsFilter>
+    <!-- Don't bother with EI - expose internal representation (e.g. getter/setter for Date) -->
+    <Match>
+        <Bug code="EI,EI2"/>
+    </Match>
+</FindBugsFilter>
