@@ -15,4 +15,4 @@ This application exposes REST services for user management. It provides followin
 
 ## Technical Details
 
-* Java
+* SpringBoot
