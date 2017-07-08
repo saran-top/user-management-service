@@ -14,3 +14,5 @@ This application exposes REST services for user management. It provides followin
 * Assign/Map role(s) to user capabilities.
 
 ## Technical Details
+
+* Java
