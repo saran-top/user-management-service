@@ -1,4 +1,4 @@
-# User Management API
+# User Management Service
 
 ### Table Of Contents
 
